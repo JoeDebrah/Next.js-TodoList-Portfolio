@@ -1,4 +1,13 @@
+## Simple To-do list created with create-next-app
+## 👋 Hello there, Joe Debrah Here
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Learn More
+
+You can check out my other portfolio's:
+
+- [My Other Portfolio's](https://github.com/JoeDebrah)
 
 ## Getting Started
 
@@ -16,19 +25,28 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+### Description
 
-To learn more about Next.js, take a look at the following resources:
+🛠️ This is an interesting project i built with the help of the resources avilable on the Next.js website. It is a simple website that allows you to add new To-do List. This was largely built with Next.js. Updates to the page to come in the near future
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
+## preview
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+🌅 [Check the preview_screenshots for a preview of the To-do](preview_screenshots) for this repository.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🚀 Check out my Linkedin below:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [Github](https://github.com/JoeDebrah)
+- [LinkedIn](https://www.linkedin.com/in/joe-debrah-953972264/)
+
+---
+Todo list page
+![Alt text](preview_screenshots/To-do-list-nextjs-prisma.png)
+
+### 📚 Website References
+- 🔗 [Next.js Official Website](https://nextjs.org)
+
+---
